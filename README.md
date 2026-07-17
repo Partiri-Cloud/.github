@@ -8,13 +8,7 @@
 
   Push your code and we handle the builds, TLS, networking, and scaling —
   on European infrastructure, with zero-downtime updates and instant rollbacks.
-
-  [![Website](https://img.shields.io/badge/partiri.cloud-2563EB?style=for-the-badge&logo=
-  icloud&logoColor=white)](https://partiri.cloud)
-  &nbsp;
-  [![EU data residency](https://img.shields.io/badge/EU%20data%20residency-003399?style=f
-  or-the-badge&logo=europeanunion&logoColor=FFCC00)](https://partiri.cloud)
-
+  
   </div>
 
   ---
